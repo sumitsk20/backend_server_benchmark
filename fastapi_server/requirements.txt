@@ -1,5 +1,5 @@
 click==7.1.1
-fastapi==0.54.1
+fastapi==0.65.2
 h11==0.9.0
 httptools==0.1.1
 orjson==2.6.5
